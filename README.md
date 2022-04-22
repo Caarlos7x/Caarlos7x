@@ -2,9 +2,10 @@
 
 
 
-- 🔭 Hoje estoou apenas estudando
+- 🔭 Estudando muito para entrar na área de Front-End 🙏🏾
 - 🌱 Estudando Front-End
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Viciado em Coca-Cola©
+
 -->
 
 <div align="center">
