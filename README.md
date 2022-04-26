@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Estudando muito para entrar na área de Front-End 🙏🏾
+- 🔭 Estudando muito 🙏🏾
 - 🌱 Estudando HTML5, CSS, JS, React Native
 - ⚡ Fun fact: Viciado em Coca-Cola©
 
