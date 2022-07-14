@@ -1,7 +1,7 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Caarlos7x/0f410ccec5c4d6bf68ec4b754e8127e4/raw/6a753a2fbbd7ee4c223726811ab44aaf8bf4e3e4/card-profile-carlos.svg"/>
 <h1 align="left">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">,<br> I'm Carlos Augusto 🖖🏽</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+
 
 - 🔥 Web Developer
 
@@ -64,6 +64,7 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/S3PBXqHjKL9GZhK2Yv/giphy.gif">
 </div>
   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caarlos7x&color=blue" alt="Profile views" /> </p>
  ##
   
  <div>
