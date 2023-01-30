@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, ReactJS, Node.JS**
 
-- ⚡ Fun fact: **I run 10km per day with my dog 😜**
+- ⚡ Fun fact: **I run 05km per day with my dog 😜**
 
 <br><br>
 
