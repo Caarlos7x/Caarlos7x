@@ -5,8 +5,6 @@
 
 - 🔥 Web Developer
 
-- 🔭 I’m looking for work but, I'm do my own projects
-
 - 💬 Ask me about **JavaScript, HTML, CSS, ReactJS, Node.JS**
 
 - ⚡ Fun fact: **I run 05km per day with my dog 😜**
