@@ -1,13 +1,9 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Caarlos7x/0f410ccec5c4d6bf68ec4b754e8127e4/raw/6a753a2fbbd7ee4c223726811ab44aaf8bf4e3e4/card-profile-carlos.svg"/>
-<h1 align="left">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">,<br> I'm Carlos Augusto 🖖🏽</h1>
+<img align="right" width="400" height="400em" src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif"/>
+<h1 align="left">Hello there 🖖🏽 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br></h1>
 
 
-- 🔥 Web Developer
-
-- 💬 Ask me about **JavaScript, HTML, CSS, ReactJS, Node.JS**
-
-- ⚡ Fun fact: **I run 05km per day with my dog 😜**
+- 🔥 Code something
 
 <br><br>
 
@@ -27,9 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
-<div align="left">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
-</div>
+
 
 <br><br>
 
