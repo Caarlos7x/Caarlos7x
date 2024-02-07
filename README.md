@@ -1,6 +1,6 @@
 
 <img align="right" width="400" height="400em" src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif"/>
-<h1 align="left">Hello there 🖖🏽 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br></h1>
+<h1 align="left">Hello there 🖖🏽 <br></h1>
 
 
 - 🔥 Code something
