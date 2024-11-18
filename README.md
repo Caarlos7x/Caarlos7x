@@ -1,8 +1,14 @@
 
 
-<h1 align="left">Hello there 🖖🏽 <br></h1>
+<h1 align="left">Hello there<br></h1>
 
 
+
+-  Desenvolvedor full-stack
+-  Tecnólogo em Análise e Desenvolvimento de Sistemas
+-  DevOps
+-  UX/UI
+  
 <br><br>
 <br><br>
 
