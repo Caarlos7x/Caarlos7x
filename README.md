@@ -27,7 +27,7 @@ Desenvolvedor Full-Stack com paixão por criar soluções eficientes e designs i
 
 - Portfólio: [www.devside.com.br](https://www.devside.com.br)
 - LinkedIn: [Carlos Augusto](https://www.linkedin.com/in/carlosaugustofrei/)
-- E-mail: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
+- E-mail: [caarlos.frei@gmail.com](mailto:caarlos.frei@gmail.com)
 
 ---
 
