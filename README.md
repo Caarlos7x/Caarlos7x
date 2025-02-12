@@ -25,8 +25,9 @@ Desenvolvedor Full-Stack com paixão por criar soluções eficientes e designs i
 
 ## Projetos Profissionais
 
-- [**Landing page MacSolution**](https://www.macsolution.com.br)
+- [**Web page MacSolution**](https://www.macsolution.com.br)
 - [**Página de Login Portal Data Ranger**](https://dataranger.app)
+- [**Seed Store**]: Loja de aplicativos para MacOS
 
 ## Contato
 
