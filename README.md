@@ -23,6 +23,11 @@ Desenvolvedor Full-Stack com paixão por criar soluções eficientes e designs i
 - [**Velvet Roses Frontend**](https://github.com/Caarlos7x/velvetroses-frontend): Landing page para a banda de hard rock Velvet Roses, desenvolvida com TypeScript e React.
 - [**Casa do Vira-Lata**](https://github.com/Caarlos7x/casadoviralata): Interface responsiva para auxiliar instituições de adoção de animais a apresentarem seus pets disponíveis para adoção.
 
+## Projetos Profissionais
+
+- [**Landing page MacSolution**](https://www.macsolution.com.br)
+- [**Página de Login Portal Data Ranger**](https://dataranger.app)
+
 ## Contato
 
 - Portfólio: [www.devside.com.br](https://www.devside.com.br)
